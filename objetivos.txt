@@ -1,0 +1,3 @@
+Objetivo 1: Completar módulos de Git y control de versiones
+Objetivo 2: Mejorar habilidades de testing
+Objetivo 3: Desarrollar una mini-app en Python
