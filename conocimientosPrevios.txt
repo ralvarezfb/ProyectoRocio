@@ -1,1 +1,2 @@
 "Conocimiento 1: HTML b sico" 
+"Conocimiento 2: L¢gica de programaci¢n" 
